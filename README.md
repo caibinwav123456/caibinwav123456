@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caibinwav123456
 - 👀 I’m interested in CG CV AI MultiMedia High Performance Computing Linux&Drivers Embedded Systems Boot.
-- 👀 I'm also interested in fundamental maths and physics theories.
+- 👀 I'm also interested in fundamental maths and physics theories and their experiments & utilizations using computers.
 - 🌱 I’m currently learning D3D AI UEV.
 - 💞️ I’m looking to collaborate on FPM.
 - 📫 Contact 342571403@qq.com
